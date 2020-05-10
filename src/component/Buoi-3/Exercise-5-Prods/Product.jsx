@@ -12,7 +12,7 @@ class Product extends Component {
             <h4 className="card-title">{prod.tenSP}</h4>
             <p className="card-text">{prod.gia}</p>
             <button
-              type="button"s
+              type="button"
               data-toggle="modal"
               data-target="#modelId"
               className="btn btn-success"
